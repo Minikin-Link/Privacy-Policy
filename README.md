@@ -52,10 +52,6 @@ This Privacy Policy covers the use of cookies by Minikin only and does not cover
 
 You may ask Minikin not to associate your web browser or IP address with visits to the Minikin.io website or Minikin Links that you create or click by clicking on the appropriate links below. If you would like to opt-out of the Minikin Links, please click on the opt-out choice for Minikin Links below. This will install a cookie on your browser that instructs our servers not to associate your IP address and browser with Minikin Links you create, click, or view. If you clear your cookies in your browser, you will need to click on the opt- out choice again after each time you clear your cookies. To be clear, these cookie-based opt-outs must be performed on each device and browser that you wish to have opted-out. Cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may limit tracking via their device settings. Please note that if you use these opt-out mechanisms, we will still automatically collect the IP addresses of computers or mobile devices that click on or create Minikin Links; we just won’t associate them with your browser or Minikin account.
 
-Cookies on Minikin Links: Click Here (https://bit.ly/a/optout)
-
-Cookies on Minikin.io: Click Here (https://bitly.com/a/optout)
-
 ### Note Regarding Children
 
 We do not knowingly collect personal information from children. If we learn that we have collected personal information of a child under 13 (or older as required by applicable law), we will take steps to delete such information from our ﬁles as soon as possible.
@@ -73,15 +69,15 @@ We use the personal information we collect for a variety of administrative and b
 * comply with any legal obligations, and
 * enforce our terms and as otherwise described in this Privacy Policy.
 
-## Usage Across Devices
+### Usage Across Devices
 
 We may use the information we collect to make inferences that a unique individual has created or interacted with Minikin links on different devices so that we can detect, deter and prevent malicious, fraudulent or unlawful activity and analyze how users use our Services. For example, if you created a Minikin link on a computer connected to your residential WiFi network, and you soon thereafter clicked on a Minikin link on a mobile device connected to the same WiFi network, we may infer that a single individual created and clicked on the Minikin links because both events were associated with the same IP address in the same time period.
 
-## Other Legitimate Interests
+### Other Legitimate Interests
 
 We also may use personal information to pursue legitimate interests, such as direct marketing, research (including marketing research), network and information security, prevention of fraudulent, malicious and unlawful activities, or any other purpose disclosed to you at the time you provide personal information or allowed by law.
 
-# Information We Share
+## Information We Share
 
 The Services are designed to help you share information with others. In addition, we provide Services to our Customers that use Minikin Link Metrics. As a result, the following categories of personal information generated through your use of the Services are shared publicly or with the following categories of third parties for the business purposes described below.
 
@@ -89,37 +85,37 @@ The Services are designed to help you share information with others. In addition
 
 Much of your activity on and through the Services is public by default. For example, when you create a Minikin Link, the original URLs you have shortened and the corresponding Minikin Links are publicly available.
 
-## Account Information
+### Account Information
 
 Where permitted by law, if you register a Minikin Account with an email address on a domain owned by an organization, (for example, an employer or educational institution where you have an email account), we may share your email address and information about your Account, such as the number of links you have created, with that organization to explore the organization’s interest in creating or managing an enterprise account or for related purposes.
 
-## Information We Share With Customers
+### Information We Share With Customers
 
 We may share the personal information we collect as described in this Privacy Policy with our customers. When you create a Minikin Link of one of our customer’s sites, the customer may be able to view the unshortened original URL, the date and time the Minikin Link was created, the location where it was created as derived from your IP address, and aggregated information about clicks and views of the Minikin Links, including the number of times the Minikin Link was shared, whether or not it was viewed, comparison of that Minikin Link’s performance to that of all Minikin Links pointing to the same content, whether others are sharing a Minikin Link to the same content, geographic regions where the content is being viewed, and identiﬁcation of social networks on which the Minikin Links appear. In addition, we may share Minikin Link Metrics with customers to help them detect, deter and prevent malicious, fraudulent or unlawful activity.
 
-## Information You Elect to Share
+### Information You Elect to Share
 
 When creating a Minikin Link, you can share that Minikin Link through Third Party Services. Any information that you elect to distribute through Third Party Services, such as a social network post you create, may then become accessible to users of those services. You can also access other Third Party Services through the Services, for example by clicking on links in the Statistics page for a Minikin Link. We recommend that you review the terms of services and privacy policies of such Third Party Services that you access through the Services since Minikin does not control and is not responsible for the privacy practices of these Third Party Services.
 
-## Information Shared with Service Providers
+### Information Shared with Service Providers
 
 We may employ and contract with third parties to perform certain tasks on our behalf and under our direction (our “Service Providers”). We may need to share information about you with our Service Providers in order to fulfill certain business purposes, like providing our product with research and analytics on user behavior and providing advertising products and services to users, processing payments, and providing email marketing and support services. Our agreements with these Service Providers authorize them to use your information only as necessary to provide services to us. Transfers to subsequent third parties are covered by our agreements with our service providers.
 
-## Information Disclosed Pursuant to Business Transfers
+### Information Disclosed Pursuant to Business Transfers
 
 We may transfer and/or provide information about our users in connection with an acquisition, sale of company assets, or other situation where user information would be transferred as one of our business assets. You will be notiﬁed via email and/or a prominent notice on our website.
 
 In such a case, the acquirer of Minikin may continue to use your information as set forth in this policy or as otherwise allowed by law.
 
-## Information Disclosed for the Protection of Minikin and Others
+### Information Disclosed for the Protection of Minikin and Others
 
 Minikin may access, read, preserve, and disclose any information it collects when it has a good faith belief that doing so is reasonably necessary to (i) comply with a law, regulation, or compulsory legal request, including process from a governmental law enforcement or national security agency, (ii) enforce the Privacy Policy or Terms of Service, including investigation of potential violations hereof, (iii) detect, deter, prevent or otherwise address malicious, fraudulent or unlawful activity, (iv) respond to user support requests, or (v) protect the rights, property or safety of Minikin, its users and the public. This includes exchanging information with other companies and organizations for protection from malicious, fraudulent or unlawful activity.
 
-## Information We Share With Your Consent
+### Information We Share With Your Consent
 
 We will share information about you when you direct or otherwise instruct us to do so, such as when you share Minikin Links or content with others through the Services, if you intentionally use or direct us or the Services to interact with third parties, or if we notify you that the information you provide will be shared in a particular manner and you provide such information (like sharing/posting it with a third-party Service).
 
-# INTERNATIONAL TRANSFERS
+## INTERNATIONAL TRANSFERS
 
 Depending on your location, information about you may be transferred to the United States or other countries outside the EU or European Economic Area (EEA) or may be processed there. These data transfers are necessary to provide you with the services outlined in this policy.
 
