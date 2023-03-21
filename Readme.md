@@ -48,10 +48,6 @@ We partner with third parties to track utilization and behavior on the Site, and
 
 This Privacy Policy covers the use of cookies by Minikin only and does not cover the use of cookies by any Third Party Services. Minikin does not control when or how third parties place cookies on your computer, such as when you visit a website through a Minikin Link. You can manage other companies’ cookies used for online advertising by visiting the Digital Advertising Alliance’s Consumer Choice Page (http://www.aboutads.info/choices/).
 
-### Opt-Out Mechanisms
-
-You may ask Minikin not to associate your web browser or IP address with visits to the Minikin.io website or Minikin Links that you create or click by clicking on the appropriate links below. If you would like to opt-out of the Minikin Links, please click on the opt-out choice for Minikin Links below. This will install a cookie on your browser that instructs our servers not to associate your IP address and browser with Minikin Links you create, click, or view. If you clear your cookies in your browser, you will need to click on the opt- out choice again after each time you clear your cookies. To be clear, these cookie-based opt-outs must be performed on each device and browser that you wish to have opted-out. Cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may limit tracking via their device settings. Please note that if you use these opt-out mechanisms, we will still automatically collect the IP addresses of computers or mobile devices that click on or create Minikin Links; we just won’t associate them with your browser or Minikin account.
-
 ### Note Regarding Children
 
 We do not knowingly collect personal information from children. If we learn that we have collected personal information of a child under 13 (or older as required by applicable law), we will take steps to delete such information from our ﬁles as soon as possible.
@@ -167,4 +163,4 @@ Minikin may amend this Privacy Policy from time to time. If we make material cha
 
 If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to: privacy@minikin.io. We will make every effort to resolve your concerns.
 
-You may also contact us at Zeedijk 28-0001, 8420 Wenduine, België. 
+You may also contact us at Zeedijk 28-0001, 8420 Wenduine, België.
